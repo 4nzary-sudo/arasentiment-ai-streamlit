@@ -5,7 +5,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # Model repository on Hugging Face
-MODEL_ID = "mohammedalnzary/arabic-sentiment-arabert"
+MODEL_ID = "4nzary-sudo/arabic-sentiment-arabert"
 
 st.set_page_config(
     page_title="AraSentiment AI",
